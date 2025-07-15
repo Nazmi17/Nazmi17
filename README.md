@@ -1,4 +1,9 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazmi17&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nazmi17&layout=compact&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=nazmi17&theme=dracula" height="150" />
+</div>
 
 <!--
 **Nazmi17/Nazmi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
