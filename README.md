@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo semuanya 👋
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nazmi17&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nazmi17&layout=compact&theme=dracula" height="150" />
